@@ -1,3 +1,2 @@
 # Code-Work-X
-31/5/15
-First time trying out Git
+Code snippets of various JS concepts
